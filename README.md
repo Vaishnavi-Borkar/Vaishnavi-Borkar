@@ -3,8 +3,8 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" /> I'm Vaishnavi Borkar</h1>
-         <img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6"/>
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;React+Developer;Quick+learner;MERN+Developer;&right=true&width=400&height=50" align="center" style="width: 80%" height="400px">
+         <img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" align="center" style="width: 80%" height="400px"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;React+Developer;Quick+learner;MERN+Developer;&right=true&width=400&height=50" >
 
 
 # Profile views
