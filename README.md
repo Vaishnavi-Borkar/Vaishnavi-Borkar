@@ -4,7 +4,8 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" /> I'm Vaishnavi Borkar</h1>
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=blue&amp;size=20&amp;lines=Hey!+It's+Vaishnavi+Borkar!;Learning+Full+Stack+Web+Development...👨🏻‍💻;" style="width: 100%;">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;React+Developer;Quick+learner;MERN+Developer;&right=true&width=400&height=50">
+
 
 # Profile views
 [![](https://visitcount.itsvg.in/api?id=vaishu111&icon=5&color=3)](https://visitcount.itsvg.in)
