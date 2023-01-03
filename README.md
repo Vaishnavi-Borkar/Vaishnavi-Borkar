@@ -11,7 +11,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishu111&label=Profile%20views&color=0e75b6&style=flat" alt="mohit-raj-singh" /> </p>
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,11 +32,11 @@
 ![](https://github-profile-trophy.vercel.app/?username=Vaishnavi-Borkar&theme=monokai&no-frame=true&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Vaishnavi-Borkar&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=Vaishnavi-Borkar&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
-<p>thank you</p>
+
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!---
