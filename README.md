@@ -31,15 +31,3 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Vaishnavi-Borkar&theme=monokai&no-frame=true&no-bg=false&margin-w=4)
 
----
-<!-- [![](https://visitcount.itsvg.in/api?id=Vaishnavi-Borkar&icon=0&color=0)](https://visitcount.itsvg.in) -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
----
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!---
-vaishu111/vaishu111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
