@@ -7,16 +7,11 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;React+Developer;Quick+learner;MERN+Developer;&right=true&width=400&height=50" >
 
 
-# Profile views
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishu111&label=Profile%20views&color=0e75b6&style=flat" alt="mohit-raj-singh" /> </p>
 
 
 
-<h3 align="center">Enthusiastic Aspiring self-motivated Full Stack Web Developer specialized MERN- stack from Masai School. Worked through 1000+ hours of learning HTML, CSS, JavaScript, React, React-Redux, and Chakra-UI. Looking to start a career as a web developer with a reputed firm driven by technology.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohit-raj-singh&label=Profile%20views&color=0e75b6&style=flat" alt="mohit-raj-singh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohit-raj-singh" alt="mohit-raj-singh" /></a> </p>
 
 - 🌱 I’m currently learning **Node.js, Express.js, MongoDB, Mongoose**
 
