@@ -17,9 +17,7 @@
 
 - 💬 Ask me about **HTML, CSS, JS, React.js, React-Redux, Chakra-UI, Redux-Thunk**
 
-- 📄 <a href="https://drive.google.com/file/d/1pU66hMY_E8PabIlRXU-TdMBk_0yRGUEA/view?usp=sharing" style="text-decoration:none">Resume
-  <img height="30" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyEgbIkZtESf7JEBXSWzm9B2f5zeF5omNK6w&usqp=CAU">
-</a>
+
 
 
  ##  🌐 Connect with me:
