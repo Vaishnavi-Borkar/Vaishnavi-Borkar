@@ -29,9 +29,7 @@
 <a href="https://www.linkedin.com/in/vaishnavi-borkar21/" style="text-decoration:none">
   <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="[https://github.com/alexfp05405](https://github.com/Vaishnavi-Borkar)" style="text-decoration:none">
-  <img height="30" src="https://img.shields.io/badge/Github-grey.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-</a>
+
          
 
  <h3><i>Tech Stacks I have worked with :</i></h3>
