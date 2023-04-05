@@ -17,8 +17,6 @@
   <img height="30" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyEgbIkZtESf7JEBXSWzm9B2f5zeF5omNK6w&usqp=CAU">
 </a>
 
-
-
  ##  🌐 Connect with me:
 <p align="left">
 <a href="mailto:vaishnaviborkar29gmail.com" style="text-decoration:none">
