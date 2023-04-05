@@ -9,6 +9,7 @@
 <h3 align="center">Enthusiastic Aspiring self-motivated Full Stack Web Developer specialized MERN- stack from Masai School. Worked through 1000+ hours of learning HTML, CSS, JavaScript, React, React-Redux, and Chakra-UI. Looking to start a career as a web developer with a reputed firm driven by technology.</h3>
 
 
+
 - 🌱 I’m currently learning **Node.js, Express.js, MongoDB, Mongoose**
 
 - 💬 Ask me about **HTML, CSS, JS, React.js, React-Redux, Chakra-UI, Redux-Thunk**
